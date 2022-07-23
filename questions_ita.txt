@@ -1,0 +1,61 @@
+ESERCIZI SQL / SQL EXERCISES
+1. Qual è l'aspettativa di vita più alta?
+2. In quanti stati l'aspettativa di vita è più alta di 50 anni?
+3. Qual è il prodotto interno lordo medio di tutti gli stati?
+4. Qual è il prodotto interno lordo massimo?
+5. Qual è il prodotto interno lordo minimo?
+6. Qual è il prodotto interno lordo del pianeta?
+7. Qual è la superficie totale di tutti gli stati del mondo?
+8. Qual è la popolazione totale di tutti gli stati del mondo?
+9. Qual è il reddito procapite (prodotto interno lordo / numero di abitanti)
+10. Qual è il reddito procapite (prodotto interno lordo / numero di abitanti) più basso, escludendo le nazioni in cui non figura il prodotto interno lordo?
+11. Quanto è il numero di abitanti della città più popolosa e di quella meno popolosa?
+12. Quanti abitanti ha la città dell'Europa Occidentale più popolosa e quella meno popolosa?
+13. Quante città africane sono contenute nel database?
+14. Quante città italiane sono contenute nel database?
+15. In quante città si parla italiano, supponendo che in una città si parla una lingua se quella lingua è parlata nello stato che la contiene?
+16. In quante nazioni si parla inglese?
+17. In quante nazioni l'inglese è la lingua ufficiale?
+18. Qual è la media degli abitanti delle città in cui si parla tedesco, sempre supponendo che in una città si parla una lingua se quella lingua è parlata nello stato che la contiene?
+19. Qual è la media degli abitanti delle città tedesche?
+20. Qual è la media delle percentuali dei linguaggi ufficiali parlati in Africa?
+21. E di quelli europei?
+
+2 Query con raggruppamento
+1. Fai una lista di tutti i continenti con il numero degli stati appartenenti ad ognuno ordinati dal continente con più stati a quello con meno stati.
+2. Fai una lista di tutte le forme di governo con il numero degli stati appartenenti ad ognuna ordinati dalla forma di governo più popolare a quella meno popolare.
+3. Fai una lista di tutti i continenti con il numero di paesi per ogni continente in cui il prodotto interno lordo è aumentato nell'ultimo anno.
+4. Qual è il continente che contiene più stati e quanti sono?
+5. Fai una lista di tutte le nazioni con il numero di città contenute in ognuna di esse, ordinate per numero di città.
+6. Fai una lista di tutti i continenti ordinati per superficie totale.
+7. Fai una lista di tutti i linguaggi ufficiali con il numero di nazioni nelle quali sono parlati, ordinati per quest'ultimo dato.
+8. Fai una lista delle nazioni in cui si parlano più di 8 lingue, ordinata per numero di lingue parlate.
+9. Fai una lista di tutti i continenti con l'aspettativa di vita media per ogni continente, ordinata per aspettativa di vita media.
+10. Fai una lista di tutte le nazioni con il numero di città e la popolazione media delle città.
+11. Fai una lista degli stati la cui popolazione è inferiore a quella della città più popolosa del mondo.
+12. Fai una lista di tutte le forme di governo con il numero degli stati appartenenti ad ognuna e il prodotto interno lordo medio (esclusi gli stati che l'hanno a zero), ordinati per prodotto interno lordo medio.
+13. Fai una lista del numero di città contenute in ogni continente.
+14. Fai una lista del rapporto tra popolazione cittadina (la somma delle popolazioni delle città) e popolazione totale dello stato per ogni stato del mondo e ordina la lista dal rapporto più alto al più basso.
+
+3 Sottoquery
+1. Qual è il paese con il maggior prodotto interno lordo?
+2. Qual è il paese con il maggior numero di abitanti?
+3. Qual è il paese con il reddito procapite più alto?
+4. Qual è il paese con il reddito procapite più basso, escludendo i paesi che hanno il GNP a zero?
+5. Qual è lo stato più antico?
+6. E qual è lo stato più recente?
+7. Qual è la percentuale degli stati in cui l'aspettativa di vita è maggiore di 50 anni sul totale degli stati?
+8. Qual è lo stato asiatico con il reddito procapite più alto?
+9. Qual è la città africana con il maggior numero di abitanti?
+10. Da quante persone è parlata la lingua più diffusa al mondo?
+11. Qual è la lingua più parlata al mondo e quante persone la parlano?
+12. Provare a risolvere la query precedente utilizzando l'ordinamento e il LIMIT e 
+fare delle considerazioni.
+13. Qual'è la città del Medio Oriente (Middle East) la cui popolazione è più vicina 
+per difetto alla media delle popolazioni delle città del Medio Oriente?
+14. Fai una lista del numero di città contenute in ogni stato e scrivi la somma del 
+numero di città contenute negli stati che ne hanno più di 100.
+15. Qual è il totale delle persone che parlano spagnolo, cinese o telugu?
+16. Supponendo che nelle città si parli solo la lingua ufficiale dello stato, 
+fare un elenco delle lingue con il numero di cittadini che le parlano dalla più 
+parlata alla meno parlata.
