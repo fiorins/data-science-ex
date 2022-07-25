@@ -2,7 +2,7 @@ You can use this exercises to practice with PySpark library to query large datab
 
 ---
 
-❗️ Be sure to use correct slashes to import css files, cause on windows you have to use back slash `"\"` while on macOS it will take forward slash `"/"`
+❗️ Be sure to use correct slashes to import csv files, cause on windows you have to use back slash `"\"` while on macOS it will take forward slash `"/"`
 
 ---
 
