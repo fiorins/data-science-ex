@@ -1,4 +1,4 @@
-ESERCIZI SQL / SQL EXERCISES
+QUERY SQL:
 1. Qual è l'aspettativa di vita più alta?
 2. In quanti stati l'aspettativa di vita è più alta di 50 anni?
 3. Qual è il prodotto interno lordo medio di tutti gli stati?
@@ -21,7 +21,7 @@ ESERCIZI SQL / SQL EXERCISES
 20. Qual è la media delle percentuali dei linguaggi ufficiali parlati in Africa?
 21. E di quelli europei?
 
-2 Query con raggruppamento
+QUERY CON RAGGRUPPAMENTO:
 1. Fai una lista di tutti i continenti con il numero degli stati appartenenti ad ognuno ordinati dal continente con più stati a quello con meno stati.
 2. Fai una lista di tutte le forme di governo con il numero degli stati appartenenti ad ognuna ordinati dalla forma di governo più popolare a quella meno popolare.
 3. Fai una lista di tutti i continenti con il numero di paesi per ogni continente in cui il prodotto interno lordo è aumentato nell'ultimo anno.
@@ -29,6 +29,7 @@ ESERCIZI SQL / SQL EXERCISES
 5. Fai una lista di tutte le nazioni con il numero di città contenute in ognuna di esse, ordinate per numero di città.
 6. Fai una lista di tutti i continenti ordinati per superficie totale.
 7. Fai una lista di tutti i linguaggi ufficiali con il numero di nazioni nelle quali sono parlati, ordinati per quest'ultimo dato.
+7bonus. Fai una lista di tutte le lingue del mondo, ordinate per il numero di paesi in cui sono parlate.
 8. Fai una lista delle nazioni in cui si parlano più di 8 lingue, ordinata per numero di lingue parlate.
 9. Fai una lista di tutti i continenti con l'aspettativa di vita media per ogni continente, ordinata per aspettativa di vita media.
 10. Fai una lista di tutte le nazioni con il numero di città e la popolazione media delle città.
@@ -37,7 +38,7 @@ ESERCIZI SQL / SQL EXERCISES
 13. Fai una lista del numero di città contenute in ogni continente.
 14. Fai una lista del rapporto tra popolazione cittadina (la somma delle popolazioni delle città) e popolazione totale dello stato per ogni stato del mondo e ordina la lista dal rapporto più alto al più basso.
 
-3 Sottoquery
+SOTTOQUERY:
 1. Qual è il paese con il maggior prodotto interno lordo?
 2. Qual è il paese con il maggior numero di abitanti?
 3. Qual è il paese con il reddito procapite più alto?
@@ -49,13 +50,8 @@ ESERCIZI SQL / SQL EXERCISES
 9. Qual è la città africana con il maggior numero di abitanti?
 10. Da quante persone è parlata la lingua più diffusa al mondo?
 11. Qual è la lingua più parlata al mondo e quante persone la parlano?
-12. Provare a risolvere la query precedente utilizzando l'ordinamento e il LIMIT e 
-fare delle considerazioni.
-13. Qual'è la città del Medio Oriente (Middle East) la cui popolazione è più vicina 
-per difetto alla media delle popolazioni delle città del Medio Oriente?
-14. Fai una lista del numero di città contenute in ogni stato e scrivi la somma del 
-numero di città contenute negli stati che ne hanno più di 100.
+12. Provare a risolvere la query precedente utilizzando l'ordinamento e il LIMIT e fare delle considerazioni.
+13. Qual è la città del Medio Oriente (Middle East) la cui popolazione è più vicina per difetto alla media delle popolazioni delle città del Medio Oriente?
+14. Fai una lista del numero di città contenute in ogni stato e scrivi la somma del numero di città contenute negli stati che ne hanno più di 100.
 15. Qual è il totale delle persone che parlano spagnolo, cinese o telugu?
-16. Supponendo che nelle città si parli solo la lingua ufficiale dello stato, 
-fare un elenco delle lingue con il numero di cittadini che le parlano dalla più 
-parlata alla meno parlata.
+16. Supponendo che nelle città si parli solo la lingua ufficiale dello stato, fare un elenco delle lingue con il numero di cittadini che le parlano dalla più parlata alla meno parlata.

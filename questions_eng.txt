@@ -1,0 +1,57 @@
+SQL QUERIES:
+1. What is the highest life expectancy?
+2. In how many states is life expectancy higher than 50 years?
+3. What is the average gross domestic product of all states?
+4. What is the maximum gross domestic product?
+5. What is the minimum gross domestic product?
+6. What is the gross domestic product of the planet?
+7. What is the total area of ​​all the states of the world?
+8. What is the total population of all states in the world?
+9. What is the per capita income (gross domestic product / number of inhabitants)
+10. What is the lowest per capita income (gross domestic product / number of inhabitants), excluding countries with no gross domestic product? 
+11. How much is the number of inhabitants of the most populous city and the least populous one?
+12. How many inhabitants does the most populous and least populous city in Western Europe have?
+13. How many African cities are contained in the database?
+14. How many Italian cities are contained in the database?
+15. In how many cities is Italian spoken, assuming that a language is spoken in a city if that language is spoken in the state that contains it?
+16. In how many countries is English spoken?
+17. In how many countries is English the official language?
+18. What is the average population of cities where German is spoken, always assuming that a language is spoken in a city if that language is spoken in the state that contains it?
+19. What is the average population of German cities?
+20. What is the average of the percentages of official languages ​​spoken in Africa?
+21. And of the European ones?
+
+GROUP QUERIES:
+1. Make a list of all continents with the number of states belonging to each one ordered from the continent with the most to the one with the fewest states.
+2. Make a list of all forms of government with the number of states belonging to each, sorted from most popular to least popular form of government.
+3. Make a list of all continents with the number of countries for each continent where gross domestic product has increased over the past year.
+4. Which continent has the most states and how many are there?
+5. Make a list of all the countries with the number of cities contained in each of them, sorted by number of cities.
+6. Make a list of all continents sorted by total area.
+7. Make a list of all official languages ​​with the number of countries in which they are spoken, sorted by the latter.
+7bonus. Make a list of the languages ​​of the world, sorted by the number of countries in which they are spoken.
+8. Make a list of the countries in which more than 8 languages ​​are spoken, sorted by the number of languages ​​spoken.
+9. Make a list of all continents with the average life expectancy for each continent, sorted by average life expectancy.
+10. Make a list of all the countries with the number of cities and the average population of the cities.
+11. Make a list of the states whose population is less than that of the most populous city in the world.
+12. Make a list of all forms of government with the number of states belonging to each and the average gross domestic product (excluding states that have zero), sorted by average gross domestic product.
+13. Make a list of the number of cities contained on each continent.
+14. Make a list of the ratio of city population (the sum of city populations) to total state population for each state in the world and sort the list from highest to lowest ratio.
+
+SUBQUERIES:
+1. Which country has the largest gross domestic product?
+2. Which country has the largest number of inhabitants?
+3. Which country has the highest per capita income?
+4. What is the country with the lowest per capita income, excluding the countries that have zero GNP?
+5. What is the oldest state?
+6. And what is the most recent status?
+7. What is the percentage of states in which life expectancy is greater than 50 years out of the total of states?
+8. Which Asian country has the highest per capita income?
+9. Which is the African city with the largest number of inhabitants?
+10. How many people is the most widespread language in the world spoken by?
+11. What is the most widely spoken language in the world and how many people speak it?
+12. Try to solve the previous query using sorting and LIMIT and make some considerations.
+13. What is the Middle East city whose population is closest to the average population of the Middle East cities?
+14. Make a list of the number of cities contained in each state and write the sum of the number of cities contained in the states that have more than 100.
+15. What is the total number of people who speak Spanish, Chinese or Telugu?
+16. Assuming that only the official state language is spoken in cities, make a list of the languages ​​with the number of citizens who speak them from most to least spoken.
