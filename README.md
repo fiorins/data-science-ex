@@ -1,3 +1,5 @@
+## Data science PySpark queries exercises
+
 You can use this exercises to practice with PySpark library to query large databases.
 
 ---
