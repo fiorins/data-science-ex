@@ -23,4 +23,4 @@ python3 -m ipykernel install --user
 pip3 install pyspark
 ```
 
-If you have Python2 just remove the numbers, eg pip3 -> pip.
+If you have Python2 just remove the numbers, eg python3 -> python and pip3 -> pip.
